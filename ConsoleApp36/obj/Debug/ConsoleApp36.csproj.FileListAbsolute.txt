@@ -1,0 +1,7 @@
+D:\ангел 215\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+D:\ангел 215\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+D:\ангел 215\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+D:\ангел 215\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.AssemblyReference.cache
+D:\ангел 215\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+D:\ангел 215\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+D:\ангел 215\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
